@@ -1,12 +1,9 @@
-console.log('client side js');
-
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 //     response.json().then((data)=>{
 //         console.log(data);
 //     });
 // });
-
-
+console.log('client side js');
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 const lbl = document.querySelector('#label');
